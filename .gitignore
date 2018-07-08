@@ -1,0 +1,6 @@
+*.swp
+*.swo
+/build/
+/build_vs/
+/build_win64/
+/build_uwp64/
